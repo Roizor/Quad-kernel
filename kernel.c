@@ -4,7 +4,7 @@ init()
 {
 
         clearScreen();
-        print("Sax Kernel\n");
+        print("Quad OS\n");
         print("By SaxNBT and TFTWPhoenix\n");
 
 }
