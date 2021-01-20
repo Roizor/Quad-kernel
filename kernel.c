@@ -4,7 +4,15 @@ init()
 {
 
         clearScreen();
-        print("Sax Kernel\n");
-        print("By SaxNBT and TFTWPhoenix\n");
+        print("Quad Kernel\n");
+        print("WELCOME TO QUAD OS!!!\n");
 
+}
+
+advertise()
+{
+        
+        clearScreen();
+        print("Please buy bobux with my creator code \"Quad Os\"!!\n");
+        
 }
